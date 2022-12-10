@@ -1,4 +1,4 @@
-# Laravel-logs-Checker
+# Laravel-debug-Checker
 CVE-2021-3129 Exploit Checker By ./MrMad
 
 
