@@ -1,6 +1,6 @@
 # Laravel-debug-Checker
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) CVE-2021-3129 Checker by ./MrMad
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) CVE-2021-3129 Checker by ./MrMad
 
 Refrence : https://pentest-tools.com/blog/exploit-rce-vulnerability-laravel-cve-2021-3129
 
